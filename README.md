@@ -1,6 +1,6 @@
 ## Incident Response Lab Reports
 
-This repository documents my hands-on cybersecurity projects in **Incident Response (IR)** and **Threat Intelligence**, aligned with [NIST SP 800-61] (https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final).
+This repository documents my hands-on cybersecurity projects in **Incident Response (IR)** and **Threat Intelligence**, aligned with [NIST SP 800-61] ([https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final](https://csrc.nist.gov/pubs/sp/800/61/r3/final)).
 
 ## Contents
 - SSH Brute Force Campaign (Lab) 
