@@ -5,7 +5,7 @@ This repository documents my hands-on cybersecurity projects in **Incident Respo
 ## Contents
 - SSH Brute Force Campaign (Lab) 
   Detection and response to a brute-force attack targeting an AWS-hosted honeypot.  
-  - [Full Report (PDF)](./reports/NIST SP800-61r3 SSH BruteForce IR Report.docx)
+  - [Full Report (DOC](./reports/NIST_SP800-61r3_SSH_BruteForce_IR_Report.docx)
   - [Summary](./SUMMARY.md)
 
 ## Skills Demonstrated
